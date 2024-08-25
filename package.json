@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Your Name",
-  "license": "MIT",
+  "author": "21BCE5199",
+  "license": "VIT",
   "dependencies": {
     "http": "^0.0.1-security",
     "url": "^0.11.0"
